@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/continental-ernesto/static/css/main.208cbc31.css",
+    "main.js": "/continental-ernesto/static/js/main.0efd9cbf.js",
+    "index.html": "/continental-ernesto/index.html",
+    "main.208cbc31.css.map": "/continental-ernesto/static/css/main.208cbc31.css.map",
+    "main.0efd9cbf.js.map": "/continental-ernesto/static/js/main.0efd9cbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208cbc31.css",
+    "static/js/main.0efd9cbf.js"
+  ]
+}
